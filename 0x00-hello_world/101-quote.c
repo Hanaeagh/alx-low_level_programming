@@ -2,7 +2,7 @@
 
 
 /**
- * main - Entry point
+ * main - main function
  *
  *
  * Return: Always 0 (Success)
